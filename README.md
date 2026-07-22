@@ -19,4 +19,5 @@ Este repositorio documenta la implementación de políticas de seguridad y gesti
 - **Objetivo:** Proteger la información confidencial de la empresa mediante el aislamiento de datos y el acceso condicional.
 - **Implementación:** Configuración de directivas de protección de aplicaciones para asegurar que la información no pueda ser extraída hacia aplicaciones personales no autorizadas.
 - **Evidencia Técnica:**
-  *(Aquí colocarás la captura del laboratorio del Curso 3)*
+  ![Despliegue de Aplicaciones](img/seguridad-mam.png)
+
